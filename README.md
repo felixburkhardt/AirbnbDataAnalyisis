@@ -65,5 +65,9 @@ Credit to AirBnB and Kaggle for hosting the data
 Code for satisfaction Score was taken from:
 https://github.com/cjhutto/vaderSentiment
 https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f
+
 Evaluation of Regression Model taken from:
 https://stackoverflow.com/questions/26951880/scikit-learn-linear-regression-how-to-get-coefficients-respective-features
+
+Link to medium blog post:
+https://github.com/felixburkhardt/AirbnbDataAnalyisis#licensing-authors-acknowledgements
