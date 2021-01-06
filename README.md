@@ -70,4 +70,4 @@ Evaluation of Regression Model taken from:
 https://stackoverflow.com/questions/26951880/scikit-learn-linear-regression-how-to-get-coefficients-respective-features
 
 Link to medium blog post:
-https://github.com/felixburkhardt/AirbnbDataAnalyisis#licensing-authors-acknowledgements
+https://felixburkhardt.medium.com/best-places-to-stay-in-seattle-b0462e99d193
